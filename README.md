@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/made%20by-fernmac-04d361?style=flat&color=04d361) 
 ![](https://img.shields.io/github/languages/count/fernmac/gostack-fundamentos-node-typescript?style=flat&color=04d361) 
-[![GitHub stars](https://img.shields.io/github/stars/fernmac/gostack-fundamentos-node-typescript?style=social)](https://github.com/fernmac/gostack-conceitos-react-native/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/fernmac/gostack-fundamentos-node-typescript?style=social)](https://github.com/fernmac/gostack-fundamentos-node-typescript/stargazers)
 
 Aplicação para armazenar transações financeiras de entrada e saída, que deve permitir o cadastro e a listagem dessas transações.
 
