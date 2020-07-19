@@ -11,18 +11,30 @@ Aplicação para armazenar transações financeiras de entrada e saída, que dev
 ## Instalação
 
 - Para iniciar a instalação é necessário clonar o repositório
-    >`git clone [url_repositorio]`
+
+  ```shell
+  git clone [url_repositorio]
+  ```
 
 - Entrar no diretório clonado
-    >`cd gostack-fundamentos-node-typescript`
+
+  ```shell
+  cd gostack-fundamentos-node-typescript
+  ```
 
 - Instalar as dependências do projeto via **NPM** ou **YARN**
-    >`npm install`
+
+  ```shell
+  npm install
+  ```
 
 ## Execução
 
 - Executar o comando para iniciar o back-end
-    >`npm run dev:server`
+
+  ```shell
+  npm run dev:server
+  ```
 
 ## Rotas
 
